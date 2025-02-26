@@ -12,7 +12,6 @@ else{
         alert(`${c} - негипотенузное число`)
     }
 }
-alert(`${apples} + ${oranges} = ${apples + oranges}`); 
 
 
 function hyp(c){
